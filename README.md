@@ -1,2 +1,3 @@
-# introductiontoalgorithm
-studying introduction to algorithm book
+# Introduction to Algorithm
+
+Notes and Codes
